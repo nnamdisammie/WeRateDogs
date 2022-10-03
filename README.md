@@ -11,7 +11,7 @@ Now I had 3 datasets gathered in total which I had to assess for quality and tid
 
 Having gotten all the datasets, I perfomed the necessary checks and assessments on each of them and was sure of the data structures. After this, I carried out the cleaning process on the datasets and explored each of them, dropped the irrelevant columns and kept the necessary ones for adequate joinings in the course of the project. When I was done, I melted the dog stages (which were in four columns into one column) in one of the datasets and merged the tables for the necessay analysis.
 
-I also used Microsoft Excel for cleaning the datasets and also used MySQL for quering the data after which I made visualization with Power BI
+I also used Microsoft Excel for cleaning the datasets and used MySQL for quering the data after which I made visualization with Power BI
 
 ## Insights drawn
 * After my analysis, between the years of 2015 and 2017, the dog stages were pupper, doggo, puppo and floofer with pupper having 184 number of dogs, doggo having 71 number of dogs, puppo having 23 number of dogs, and floofer with 9 number of dogs
