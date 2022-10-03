@@ -20,6 +20,8 @@ Having gotten all the datasets, I perfomed the necessary checks and assessments 
 
 * The dog with the highest rating was Atticus with the highest of 1776/10 while Crystal has the least rating of 2/10
 
+* There is a positive correlation between Favorites and Retweets
+
 
 
 ## Visualizations With Power BI
