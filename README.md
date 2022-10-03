@@ -12,10 +12,10 @@ Now I had 3 datasets gathered in total which I had to assess for quality and tid
 Having gotten all the datasets, I perfomed the necessary checks and assessments on each of them and was sure of the data structures. After this, I carried out the cleaning process on the datasets and explored each of them, dropped the irrelevant columns and kept the necessary ones for adequate joinings in the course of the project. When I was done, I melted the dog stages (which were in four columns into one column) in one of the datasets and merged the tables for the necessay analysis.
 
 ## Insights drawn
-1. After my analysis, between the years of 2015 and 2017, the dog stages were pupper, doggo, puppo and floofer with pupper having 184 number of dogs, doggo having 71 number of dogs, puppo having 23 number of dogs, and floofer with 9 number of dogs
+* After my analysis, between the years of 2015 and 2017, the dog stages were pupper, doggo, puppo and floofer with pupper having 184 number of dogs, doggo having 71 number of dogs, puppo having 23 number of dogs, and floofer with 9 number of dogs
 
-2. Also, from 2015 to 2016, there was a steady increase in the number of likes and retweets after which, there was a decline in both the likes and favourites
+* Also, from 2015 to 2016, there was a steady increase in the number of likes and retweets after which, there was a decline in both the likes and favourites
 
-3. Dogs with the highest number of likes and retweets were Stephan, Jamesy, Duddles, Bo and Kenneth
+* Dogs with the highest number of likes and retweets were Stephan, Jamesy, Duddles, Bo and Kenneth
 
-4. The dog with the highest rating was Atticus with the highest of 1776/10 while Crystal has the least rating of 2/10
+* The dog with the highest rating was Atticus with the highest of 1776/10 while Crystal has the least rating of 2/10
