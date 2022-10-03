@@ -19,3 +19,9 @@ Having gotten all the datasets, I perfomed the necessary checks and assessments 
 * Dogs with the highest number of likes and retweets were Stephan, Jamesy, Duddles, Bo and Kenneth
 
 * The dog with the highest rating was Atticus with the highest of 1776/10 while Crystal has the least rating of 2/10
+
+
+
+## Visualizations With Power BI
+<img src="https://user-images.githubusercontent.com/98770304/193594496-982d4a71-3d25-4499-84b4-c16006e2863e.jpg" width="500" height="500">
+
